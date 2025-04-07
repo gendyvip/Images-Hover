@@ -1,0 +1,17 @@
+#container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+img {
+    margin: 0 10px;
+    width: 200px;
+    height: 200px;
+}
+
+#show {
+    position: absolute;
+}
